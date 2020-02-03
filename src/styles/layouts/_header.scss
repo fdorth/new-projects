@@ -1,0 +1,18 @@
+.header {
+  &__logo-box {
+    width: 80px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+  }
+  &__logo {
+    display: block;
+    max-width: 100%;
+  }
+}
+
+.login-body .header {
+  &__logo-box {
+    width: 200px;
+  }
+}

@@ -1,0 +1,12 @@
+@import './abstract/variables';
+
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~bootstrap/scss/bootstrap';
+@import '~swiper/swiper';
+@import './components/custom';
+
+@import './base/reset';
+@import './base/modal';
+
+@import './layouts/header';
+@import './layouts/index';
